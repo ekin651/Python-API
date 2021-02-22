@@ -1,14 +1,20 @@
-##python-api challenge
+## Python-API challenge  What's the Weather Like?
 
-What's the Weather Like?
+**1.Background**
 
-Background
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
-Now, we know what you may be thinking: "Duh. It gets hotter..."
-But, if pressed, how would you prove it?
+It's too hot at the equator, should it be cooler if traveling North? Many will answer yes as a common sense; equator should be the hottest place on Earth. In this project, weather of more than 500 cities were analyzed to investigate how weather is changing with latitudes and help answer this question. All results and graphs are published online for public access through GitHub IO.
+
+**Languages, Tools & Techniques**
+Languages:HTML5 | CSS3 | Python
+
+Python Libraries:Pandas (CSV to DataFrame & DataFrame to HTML)
+
+Software/ Applications:Jupyter Notebook | Google Chrome ver. 84 | Visual Studio Code | Git Bash | Windows Terminal | Python Server
 
 
-Before You Begin
+
+
+**Before You Begin**
 
 
 Create a new repository for this project called python-api-challenge. Do not add this work to an existing repository.
@@ -89,6 +95,11 @@ Note: Feel free to adjust to your specifications but be sure to limit the number
 
 
 Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+
+
+
+
+
 
 
 Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
